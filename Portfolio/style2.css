@@ -1,0 +1,49 @@
+body{
+	padding-top: 70px;
+}
+
+body{
+	font-family: 'Langar', cursive;
+	color: #bae25e;
+  }
+  .navbar{
+	background: rgba(0,0,0,0.6);
+  }
+
+.section-header {
+	text-align: center;
+	margin: 60px auto 20px auto;
+  
+	font-family: 'Montserrat', sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #222;
+  }
+
+  .section-header {
+	text-align: center;
+	margin: 60px auto 20px auto;
+  
+	font-family: 'Montserrat', sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #222;
+  }
+  
+  .section-header-underline {
+	border: 1px solid #222;
+	width: 3rem;
+	margin: 0 auto;
+	margin-bottom: 30px;
+  }
+.navbar-inverse {
+	color: #2c3e50;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+.navbar-inverse .navbar-brand {
+	color:white;
+}
